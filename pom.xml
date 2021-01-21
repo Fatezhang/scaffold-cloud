@@ -47,7 +47,7 @@
         <spring.session.version>1.3.2.RELEASE</spring.session.version>
         <spring.session.data.redis.version>2.0.1.RELEASE</spring.session.data.redis.version>
         <jedis.version>2.9.0</jedis.version>
-        <jackson.databind.version>2.9.10.1</jackson.databind.version>
+        <jackson.databind.version>2.9.10.7</jackson.databind.version>
         <alibaba.fastjson.version>1.2.47</alibaba.fastjson.version>
         <guava.version>25.1-jre</guava.version>
         <mybatis.generator.version>1.3.5</mybatis.generator.version>
